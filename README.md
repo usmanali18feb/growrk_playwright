@@ -11,7 +11,7 @@ Tests:
 3. Handles Negative Numbers
 4. Handles an Empty Array
 
-findPair Function
+findPair Function:
 The findPair function is designed to find pairs of numbers in an array that add up to a specified target sum.
 
 Tests:
